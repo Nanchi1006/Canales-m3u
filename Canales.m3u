@@ -1,0 +1,57 @@
+#EXTM3U
+
+#EXTINF:-1,**PANAMA
+**
+http:?
+
+#EXTINF:-1,SER-TV
+rtmp://216.224.177.132/live/sertv
+
+#EXTINF:-1,RPCTV
+http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
+
+#EXTINF:-1,Telemetro
+ http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8
+
+#EXTINF:-1,TVN 2
+http://kalseglive-a.akamaihd.net/dc-0/m/pa-live-publish3/kLive/smil:0_6gox09ym_all.smil/32/chunklist.m3u8
+
+
+#EXTINF:-1,**ESPANA**
+http:?
+
+#EXTINF:-1,TVE1
+http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:-1,TVE2
+http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:-1,Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,A•3 Internacional
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+
+
+EXTINF:-1,**MEXICO**
+ http:?
+
+#EXTINF:-1,Azteca 7
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+
+#EXTINF:-1,Canal de las Estrellas
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+
+
+#EXTINF:-1,**COSTA RICA**
+http:?
+
+#EXTINF:-1, 11 Repretel
+http://slrp.sambavideos.sambatech.com/liveevent/repretelcanal11_d3adab9cf37b5e4ed6f823e031229710/livestream3/chunklist.m3u8
+
+#EXTINF:-1, 6 Repretel
+http://k3.usastreams.com:1935/cana6/cana6/playlist.m3u8
+
+#EXTINF:-1, Teletica 7
+http://k3.usastreams.com:1935/cana7/cana7/playlist.m3u8
+
